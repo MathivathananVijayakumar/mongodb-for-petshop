@@ -9,5 +9,4 @@ db.mammals.insert({name:'Bengal',species:'Felis Catus'})
 db.mammals.insert({name:'Kiskky',species:'Agpornis'})
 db.mammals.insert({name:'Moko',species:'Agpornis'})
 db.mammals.insert({name:'Bubbles',species:'Agpornis'})
-db.mamma
-ls.find()
+db.mammals.find()
